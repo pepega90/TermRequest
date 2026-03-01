@@ -21,8 +21,3 @@ https://github.com/user-attachments/assets/ff96cd5c-192f-4404-903b-220b87c56ef7
 
 - **Golang**
 - **tview** (Terminal UI framework)
-
-## 🚀 Installation
-
-```bash
-go install github.com/yourusername/termrequest@latest
